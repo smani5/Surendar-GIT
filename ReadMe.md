@@ -8,4 +8,5 @@
 ##### Renaming the filename with move command ---> mv Sample.txt NewSample.txt (It performs the operation of git rm Sample.txt & git add NewSample.txt)
 ##### Undo the early commit or after messing up with the commit ---> git commit --amend
 ##### Unstaging a Staged File - 1
+##### Adding remote repositories using git remote add / git fetch
 
